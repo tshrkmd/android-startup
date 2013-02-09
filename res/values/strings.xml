@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartUpSample</string>
+    <string name="app_license">true</string>
+
+    <string name="activity_dialog_title">利用規約的な何か</string>
+    <string name="activity_dialog_mess">承諾とか、アップデートのメッセージとか</string>
+    <string name="activity_dialog_yes">同意する</string>
+    <string name="activity_dialog_no">同意しない</string>
+
+    <string name="activity_main_title">メインページ</string>
+    <string name="activity_main_mess">コンテンツ</string>
+
+</resources>
